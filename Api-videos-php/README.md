@@ -1,0 +1,3 @@
+## Api para url de videos do servidor
+
+Criei esta pseudo api com todas as funções de uma api REST utilizando php puro, o projeto teve de ser o mais simples possível devido ao prazo e as condições impostas no projeto, o servidor é um servidor de hospedagem compartilada onde eu tinha a opção de fazer em php puro ou utilizar a ferramenta Softaculous para instalar o Laravel, como são apenas 3 campos e 1 tabela eu optei por usar php puro e simplificar ao máximo o código.
